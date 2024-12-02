@@ -12,9 +12,9 @@ PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
 BOT_NAME: process.env.BOT_NAME || "Pahasara Tm",
 ///=================ඕවා එඩිට් කරද්දි කිසිම දෙයක් වැරදියට දමන්න එපා !!CUSTOM-SETTING-CONFIG=====================
-AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
+AUTO_VOICE: process.env.AUTO_VOICE || "false", //add true or false
 AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
-AUTO_REPLY: process.env.AUTO_REPLY || "true", //add true or false
+AUTO_REPLY: process.env.AUTO_REPLY || "false", //add true or false
 ANTI_LINK: process.env.ANTI_LINK || "true", //add true or false
 ANTI_BAD: process.env.ANTI_BAD || "true", //add true or false
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true", //add true or false
